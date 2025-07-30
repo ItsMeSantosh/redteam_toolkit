@@ -18,7 +18,7 @@ A modular Python script to automate the installation of popular red teaming and 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/redteam-toolkit.git
+git clone https://github.com/ItsMeSantosh/redteam-toolkit.git
 cd redteam-toolkit
 chmod +x setup.sh
 ./setup.sh
